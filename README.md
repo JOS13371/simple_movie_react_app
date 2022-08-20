@@ -8,4 +8,6 @@ https://simple-movie-react-app.netlify.app/
 
 if you forked the project you can simply run it on your device using
 
+npm install then
+
 npm run dev
